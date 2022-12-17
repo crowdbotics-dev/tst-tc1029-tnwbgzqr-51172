@@ -34,9 +34,9 @@ urlpatterns = [
     path("rest-auth/registration/", include("rest_auth.registration.urls")),
 ]
 
-admin.site.site_header = "TST-TC1029-tnwbgzqrbo"
-admin.site.site_title = "TST-TC1029-tnwbgzqrbo Admin Portal"
-admin.site.index_title = "TST-TC1029-tnwbgzqrbo Admin"
+admin.site.site_header = "updatedName1029ifqgjyftyc"
+admin.site.site_title = "updatedName1029ifqgjyftyc Admin Portal"
+admin.site.index_title = "updatedName1029ifqgjyftyc Admin"
 
 # swagger
 urlpatterns += [
